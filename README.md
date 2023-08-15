@@ -48,7 +48,7 @@ If you don't know how to generate this password, visit the <a href="https://supp
 <p>To test the endpoints, just use postman or access the swagger documentation with the url: localhost:(your port)/swagger-ui/index.html</p>
 
 <h1>Author</h1>
-<p>Suelyton Thiago de Lima souza <a href="https://www.linkedin.com/in/suelyton-souza-0baaa127a/"target="_blank", rel = "external">/linkedin</a></p>
+<p>Suelyton Thiago de Lima souza <a href="https://www.linkedin.com/in/suelyton-souza-0baaa127a/" target="_blank", rel = "external">/linkedin</a></p>
 
 
 
