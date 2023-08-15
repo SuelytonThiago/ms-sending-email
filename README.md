@@ -1,4 +1,4 @@
-<h1>Micro-serviço de envio de email</h1>
+<h1>Email sending microservice</h1>
 
 <h2>About this project</h2>
 
