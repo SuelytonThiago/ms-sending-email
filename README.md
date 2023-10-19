@@ -45,7 +45,7 @@ If you don't know how to generate this password, visit the <a href="https://supp
 <h2>Run the project</h2>
 <p>./mvnw spring-boot:run</p>
 
-<p>Before starting the project, **configure the environment variables in the application.properties** file.</p>
+<p>Before starting the project, configure the environment variables in the application.properties file.</p>
 
 <p>To test the endpoints, just use postman or access the swagger documentation with the url: localhost:(your port)/swagger-ui/index.html</p>
 
